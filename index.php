@@ -1,4 +1,3 @@
 <?php
-// header('location:./view/testapi.php');
-header('location:./view/index.php');
+   header('location:view/login.php');
 ?>
